@@ -1,6 +1,6 @@
 # Desafio Aula Inaugural
 
-## Integrantes
+## Integrantes 📌
 
 - **Felipe Colombo Pacheco** – RM367894  
 - **Matheus Lazario** – RM367531  
